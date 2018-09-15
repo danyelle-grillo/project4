@@ -2,3 +2,13 @@
   background-color: CornflowerBlue;/*using the class name, the background was changed the collor*/
   text-align: center;/*aligning the text in the center*/
 }
+.about-me {
+  font-size: 20px;
+  opacity: 0.5;
+}
+.title {
+  font-weight: bold;
+}
+h1 {
+  color: Azure;
+}
