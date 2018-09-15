@@ -2,13 +2,17 @@
   background-color: CornflowerBlue;/*using the class name, the background was changed the collor*/
   text-align: center;/*aligning the text in the center*/
 }
-.about-me {
+.about-me {/* used the class name to change the size and the opacity of the text*/
   font-size: 20px;
   opacity: 0.5;
 }
 .title {
-  font-weight: bold;
+  font-weight: bold;/*used the class name to put the text strong*/
 }
 h1 {
-  color: Azure;
+  color: Azure;/*used the element name to change the collor og the text*/
+}
+body {
+  font-family: Georgia;/*used the element name to put a image as background and change the font of the text of the intire body*/
+  background-image:url("https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png");
 }
